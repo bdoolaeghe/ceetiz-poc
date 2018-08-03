@@ -1,4 +1,5 @@
-import my.*;
+package my;
+
 import org.junit.Test;
 
 import static org.hamcrest.core.Is.is;
